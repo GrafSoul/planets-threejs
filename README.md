@@ -1,5 +1,7 @@
 # Planets - ThreeJS 
 
+A simple application using the Three.js library
+
 ### Prerequisites
 Before you start, make sure you have Node.js installed on your machine: (https://nodejs.org/en/download/)
 
